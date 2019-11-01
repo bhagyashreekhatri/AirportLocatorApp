@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.0)
+  - DCToastView (0.1.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - DCToastView
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - DCToastView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  DCToastView: 786aea0a3548c90ec83cf700a89ebcf1f7bba1a4
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 0a2cb993b618aedaa56a75883ed03d59fd05c555
+
+COCOAPODS: 1.5.3
